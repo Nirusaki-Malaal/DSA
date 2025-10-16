@@ -1,7 +1,7 @@
 <h1 align="center">⚔️ DSA DOMINATOR ⚔️</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/dZQK6Y3.gif" width="500" alt="DSA Power">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/coding.gif" width="500" alt="DSA Power">
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ Not here to “learn DSA” — I’m here to **EAT IT ALIVE** 🔥
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/6TjKqgT.gif" width="400" alt="Keep Grinding">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" alt="Keep Grinding">
 </p>
 
 <p align="center"><b>Keep Grinding. Keep Winning. 🧠⚡</b></p>
