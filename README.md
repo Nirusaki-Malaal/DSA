@@ -25,22 +25,21 @@ Expect:
 ## 🧱 Folder Structure
 ```
 DSA/
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack_Queue/
-├── Trees/
-├── Graphs/
-├── DynamicProgramming/
-├── Misc/
+├── Arrays
+├── Strings
+├── LinkedList
+├── Stack_Queue
+├── Trees
+├── Graphs
+├── DynamicProgramming
+├── Misc
 └── README.md
 ```
 
 ---
 
 ## 💥 My Goal
-To master **DSA like a boss** and build the reflexes of a **Code Ninja 🥷**.  
-Not here to “learn DSA” — I’m here to **EAT IT ALIVE** 🔥
+To master **DSA like a good boy**🔥
 
 ---
 
@@ -48,15 +47,14 @@ Not here to “learn DSA” — I’m here to **EAT IT ALIVE** 🔥
 - LeetCode 🟧  
 - Codeforces 💥  
 - GeeksforGeeks 🧠  
-- InterviewBit 💼  
-- Striver / Neetcode Sheets 🗒️  
+- Striver Sheets 🗒️  
 
 ---
 
 ## 🛠️ Tech Stack
 | Language | Usage |
 |-----------|--------|
-| C++ | Main solving weapon |
+| C++/Java | Main solving weapon |
 | Python | For debugging & visualization |
 | Markdown | For documentation like this beauty |
 | Git | Version control & flexing purposes 😎 |
@@ -74,9 +72,9 @@ Not here to “learn DSA” — I’m here to **EAT IT ALIVE** 🔥
 ## 📊 My Progress Tracker
 | Topic | Status | Problems Solved |
 |:------|:--------|:----------------|
-| Arrays | ✅ Done | 50+ |
-| Strings | ✅ Done | 40+ |
-| Linked List | 🔄 In Progress | 20+ |
+| Arrays | ✅ Done | 20+ |
+| Strings | ✅ Done | 20+ |
+| Linked List | 🔄 In Progress | 0+ |
 | Trees | 🔜 Upcoming | - |
 | Graphs | 🔜 Upcoming | - |
 | DP | 🔥 Grinding | 30+ |
@@ -85,9 +83,9 @@ Not here to “learn DSA” — I’m here to **EAT IT ALIVE** 🔥
 
 ## 💬 Connect With Me
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Nirusaki-Malaal"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/Nirusaki/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nirusakimalaal@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
