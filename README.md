@@ -25,14 +25,14 @@ Expect:
 ## 🧱 Folder Structure
 ```
 DSA/
-├── Arrays
-├── Strings
-├── LinkedList
-├── Stack_Queue
-├── Trees
-├── Graphs
-├── DynamicProgramming
-├── Misc
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Searching/
+├── Sorting/
+├── Recursion/
+├── Math/
+├── Misc/
 └── README.md
 ```
 
